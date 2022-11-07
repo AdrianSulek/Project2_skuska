@@ -1,0 +1,49 @@
+Ak sa vás pri prezentácii spýtam na vysvetlenie funkcionality vo vašom
+projekte a vy ju nebudete vedieť vysvetliť, nezískate za ňu body - nekopírujte
+prvý príklad Singletonu z netu, keď mu nerozumiete.
+
+Ak máte v projekte použitý OOP princíp ale v pdf ste ho neopísali, nemáte za neho
+body, pretože je dôležité aby ste rozumeli OOP princípom a vedeli ich identifikovať.
+
+Poradte sa pri riešení projektu s kolegom, ale za žiadnu cenu nekopírujte jeho kód.
+Nepomôže vám ani premenovanie premenných/metód alebo zmena for cyklov za while...
+Videl som kód toho Plagiátorskeho Analyzátora a verte mi, že ho neprečúrate.
+Na konci semestra sa vezmú všetky projekty z predmetu a preženú sa cez neho,
+vám príde už len pekný mail do AIS o disciplinárnej komisii alebo vylúčení.
+
+
+Hodnotenie 2. a 3. zadania:
+
+1. Implementovaná 3 kľúčové funkcionality podľa rámcového zadania. 9
+2. Aspoň dve zmysluplné hierarchie dedenia. 1
+3. Zapuzdrenie a správne modifikátory prístupu (členské premenné sú private). 1
+4. Vhodná organizácia kódu do balíkov. 1
+5. Konzistentný štýl písania (pomenúvania) v zdrojovom kóde. 1
+6. Použiť preťažovanie (overloading) metód 1
+7. Použiť prekonávanie (overriding) metód. 1
+8. Použiť vzťah agregácie. 1
+9. Použiť vzťah kompozície. 1
+10. Použiť vzťah asociácie. 1
+11. Použiť finálny atribút alebo triedu. 1
+12. Použiť finálnu metódu. 1
+13. Použiť abstraktnú triedu. 1
+14. Použiť abstraktnú metódu. 1
+15. Použiť statickú metódu. 1
+16. Použiť statický atribút. 1
+17. Implementácia vlastného rozhrania. 1
+18. Použitie upcasting-u. 1
+19. Použitie downcasting-u. 1
+20. Implementácia privátneho konštruktora alebo návrhového vzoru Singleton 1
+21. Vyznačenie princípov v dokumente oopPouzite Principy.pdf
+(musia byť vyznačené). 1
+22. Korektne prekonané (overriden) metódy toString(), hashCode(),
+equals(Object obj) v každej Entite(entity sú triedy z ktorých vytvárame
+objekty, nieje to Service alebo Main class) 1
+23. Správne použitie názvov tried/metód + správnych konvencií(žiadne slovenské
+názvy alebo triedy napísané malým písmenom) 1
+24. Vami navrhnutý UML diagram tried (všetky vzťahy a balíky, minimálne
+6 tried pre získanie plného počtu bodov). 8
+25. Správne použitie dokumentácie kódu (javadoc + komentare kodu) 1
+
+
+dokopy: 40b
