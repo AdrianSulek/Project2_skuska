@@ -1,5 +1,7 @@
 package Project2.runTime;
 
+import Project2.models.Cell;
+
 import java.util.Scanner;
 
 public class RunTime {
@@ -22,14 +24,18 @@ public class RunTime {
     }
 
     public void levelChooser(Boolean battleEnd){
+        int x = 0;
         if (battleEnd == true){
             level2();
         }
     }
+    public void engageCombat(){
+        Combat combat = new Combat();
+        combat.enemyChooset();
+    }
     public void level1(){
         System.out.println("Welcome to the head, here you will encounter your first enemy");
-        Combat combat = new Combat();
-        combat.combatSystem();
+        engageCombat();
     }
     public void level2(){
         System.out.println("Welcome to the throat, be ready for your second enemy");
